@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/shumo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/shumo/test" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/shumo/matploblib_test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/html" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
